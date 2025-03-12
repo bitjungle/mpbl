@@ -3,3 +3,4 @@ ad.amediakreativ.no
 deliver.madington.io
 *.adtrafficquality.google
 *.safeframe.googlesyndication.com
+googleads.g.doubleclick.net
