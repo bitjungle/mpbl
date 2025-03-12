@@ -1,6 +1,5 @@
 ad.amediakreativ.no
-adform.net
-adx.adform.net
+*.adform.net
 deliver.madington.io
-adtrafficquality.google
-safeframe.googlesyndication.com
+*.adtrafficquality.google
+*.safeframe.googlesyndication.com
