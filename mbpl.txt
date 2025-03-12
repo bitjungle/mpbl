@@ -4,3 +4,5 @@ deliver.madington.io
 *.adtrafficquality.google
 *.safeframe.googlesyndication.com
 googleads.g.doubleclick.net
+securepubads.g.doubleclick.net
+europe.delivery.adnuntius.com
