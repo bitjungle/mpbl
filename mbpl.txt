@@ -1,4 +1,5 @@
 ad.amediakreativ.no
+video.seenthis.se
 *.adform.net
 deliver.madington.io
 *.adtrafficquality.google
